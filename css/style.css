@@ -321,6 +321,44 @@ a.readmore{
 }
 
 
+@media screen and (max-width: 900px) {
+  
+
+  #customers {
+    margin-top: 60px;
+  }
+
+  #customers .sep {
+    margin-bottom: 60px;
+  }
+
+  #customers .container-text {
+    width: 100%;
+  }
+
+  #customers .container-text h2 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+
+  #customers .container-compagnies {
+    width: 100%;
+    padding: 0px 25px 0px 25px;
+    margin-top: 50px;
+  }
+
+  #customers .container-compagnies .compagnie {
+    width: calc(100% / 3);
+  }
+
+  #customers .container-compagnies .compagnie img {
+    max-width: 70px;
+    max-height: 20px;
+  }
+}
+
+
+
 /*==========================================
 =            FOOTER                        =
 ==========================================*/
@@ -1098,4 +1136,42 @@ p strong, li strong {
 #trust-heading-title {
   color: #2A295C;
 }
+
+
+  .hidden-md-up{
+    display: none
+  }
+
+@media (max-width: 575.98px) { 
+  #DCheader #particles-js canvas{
+    display: none
+  }
+ }
+
+@media (max-width: 991.98px) {  
+  #DCheader #particles-js canvas{
+    margin-top: 10px;
+  }
+  .intro{
+    margin-top: 0;
+  }
+  .intro h1{
+    font-size: 60px;
+  }
+  #API img,
+  #SFTP img,
+  #SUPPORT img{
+    width: 60%;
+    display: block;
+    margin: auto;
+  }
+  .hidden-sm-down{
+    display: none
+  }
+  .hidden-md-up{
+    display: block
+  }
+
+ }
+
 
