@@ -152,11 +152,16 @@ a.text-muted:hover {
 
 #hub-search .fa.fa-search,
 #hub-search .fa.fa-search:hover,
-.hub-is-home header#hub-header ::placeholder {
+.hub-is-home header#hub-header ::placeholder,
+#hub-search .searchbox:hover .fa.fa-search, 
+#hub-search .searchbox.full .fa.fa-search,
+#hub-search .searchbox.full input,
+#hub-subheader-parent #hub-subheader, 
+#hub-search input
+ {
     color: #fff;
     opacity: 1; /* Firefox */
 }
-
 .hub-is-home header#hub-header #header-top #header-nav-left li a:hover, 
 .hub-is-home header#hub-header #header-top #header-nav-right li a:hover{
   color: #fff;
@@ -164,8 +169,17 @@ a.text-muted:hover {
   -webkit-box-shadow: none;
 }
 
+
+header#hub-header.fixed #hub-search .fa.fa-search,
+header#hub-header.fixed #hub-search .fa.fa-search:hover,
+header#hub-header.fixed .hub-is-home header#hub-header ::placeholder,
 .hub-is-home header#hub-header.fixed #header-top #header-nav-left li a, 
-.hub-is-home header#hub-header.fixed #header-top #header-nav-right li a{
+.hub-is-home header#hub-header.fixed #header-top #header-nav-right li a,
+header#hub-header.fixed #hub-search .searchbox:hover .fa.fa-search, 
+header#hub-header.fixed #hub-search .searchbox.full .fa.fa-search,
+header#hub-header.fixed #hub-search .searchbox.full input,
+header#hub-header.fixed #hub-subheader-parent #hub-subheader, 
+header#hub-header.fixed #hub-search input{
   color: #999;
 }
 .hub-is-home header#hub-header.fixed #header-top #header-nav-left li a:hover, 
