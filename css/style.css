@@ -10,16 +10,16 @@
   font-family: 'ProximaNova';
   font-weight: 700;
   font-style: normal;
-  src: url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.eot');
-  src: url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.ttf') format('truetype');
+  src: url('https://rydoo.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.eot');
+  src: url('https://rydoo.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_2_0.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'ProximaNova';
   font-weight: 400;
   font-style: normal;
-  src: url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.eot');
-  src: url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.ttf') format('truetype');
+  src: url('https://rydoo.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.eot');
+  src: url('https://rydoo.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_A_0.ttf') format('truetype');
 }
 
 
@@ -27,8 +27,8 @@
   font-family: 'ProximaNova';
   font-weight: 400;
   font-style: italic;
-  src: url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.eot');
-  src: url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.ttf') format('truetype');
+  src: url('https://rydoo.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.eot');
+  src: url('https://rydoo.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Proxima-Nova/352B80_B_0.ttf') format('truetype');
 }
 /**
  * Typeface: Buenos-Aires
@@ -38,23 +38,23 @@
   font-family: 'BuenosAires';
   font-weight: 300;
   font-style: normal;
-  src: url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.eot');
-  src: url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.ttf') format('truetype');
+  src: url('https://rydoo.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.eot');
+  src: url('https://rydoo.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Light.ttf') format('truetype');
 }
 @font-face {
   font-family: 'BuenosAires';
   font-weight: 400;
   font-style: normal;
-  src: url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.eot');
-  src: url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.ttf') format('truetype');
+  src: url('https://rydoo.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.eot');
+  src: url('https://rydoo.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'BuenosAires';
   font-weight: 700;
   font-style: normal;
-  src: url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.eot');
-  src: url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.ttf') format('truetype');
+  src: url('https://rydoo.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.eot');
+  src: url('https://rydoo.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.eot?#iefix') format('embedded-opentype'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.woff2') format('woff2'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.woff') format('woff'),url('https://cardwise.github.io/dev-center/fonts/Buenos-Aires/BuenosAiresWeb-Bold.ttf') format('truetype');
 }
 h1,h2,h3,h4,h5{
   font-family: "BuenosAires",'ProximaNova',Helvetica, Arial, sans-serif;
