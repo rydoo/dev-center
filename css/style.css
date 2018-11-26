@@ -710,6 +710,9 @@ footer .wrapper .foot .cpr {
 .btn.btn-primary:hover {
   background-color: #0a0a15;
 }
+a.btn:hover{
+color:#fff;
+}
 .theme-line #hub-landing-top h2 {
   color: #2D295C;
 }
