@@ -1,0 +1,3 @@
+email;firstname;lastname;language;country;branchname;branchid;groupname;groupid;userid;reimbursementaccount;active;commutertraffic;customfield
+employee@company.com;John;Johnson;Eng;UK;Company ABC;10001;Sales;S00001;123456789;IBAN;0;10;value
+employee2@company.com;James;Jameson;Eng;UK;Company ABC;10001;Sales;S00001;987654321;IBAN;1;10;value

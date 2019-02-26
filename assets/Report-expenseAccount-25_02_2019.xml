@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Report>
+  <Total>603.00 EUR</Total>
+  <TotalInvoice>0.0 EUR</TotalInvoice>
+  <TotalReimbursable>300.00 EUR</TotalReimbursable>
+  <SummarizedBy>expenseAccount</SummarizedBy>
+  <GroupAmount>603.00</GroupAmount>
+  <GroupCurrencyCode>EUR</GroupCurrencyCode>
+  <Group>
+    <GroupByField>-</GroupByField>
+    <GroupCustomField Name="grcf">2(2)</GroupCustomField>
+    <GroupCustomField Name="grcff">grouptest</GroupCustomField>
+    <Expenses>
+      <TransactionDate>2018-11-16T00:00:00</TransactionDate>
+      <Amount>303.00</Amount>
+      <CurrencyCode>EUR</CurrencyCode>
+      <DateApproved />
+      <DateCompleted>2019-02-22T09:06:32.93</DateCompleted>
+      <DateControlled />
+      <ExpenseAccount />
+      <VatAmount />
+      <VatPercentage />
+      <IsInvoice>false</IsInvoice>
+      <InvoiceNumber />
+      <MerchantEnterpriseNumber />
+      <IsReimbursable>false</IsReimbursable>
+      <Merchant />
+      <Note></Note>
+      <Type>0303</Type>
+      <Project></Project>
+      <User>Ner Zhul</User>
+      <ImageLink />
+      <Country />
+      <CustomField Name="0cf" />
+      <CustomField Name="cf" />
+      <CustomField Name="cff" />
+      <CustomField Name="usercf" />
+      <CustomField Name="usercff" />
+      <UserCustomField Name="usercf">2(2)</UserCustomField>
+      <UserCustomField Name="usercff">usertest2</UserCustomField>
+      <Approver />
+      <Branch>Default branch</Branch>
+      <BranchID>db</BranchID>
+      <CategoryID />
+      <CategoryIDExtra />
+      <ProjectID />
+      <UserID></UserID>
+      <TotalVAT>0.0</TotalVAT>
+      <IBAN></IBAN>
+      <XpdReference>XPD000185897</XpdReference>
+      <TravellerId></TravellerId>
+      <VehicleGroup></VehicleGroup>
+      <RateCode></RateCode>
+      <HasImage>false</HasImage>
+      <DateSubmitted />
+      <ExchangeRate>1.0</ExchangeRate>
+      <PaymentMethodName>Card 303</PaymentMethodName>
+      <BranchAmount>303.00</BranchAmount>
+      <CheckIn />
+      <CheckOut />
+      <NumberOfNights />
+      <Transactions>
+        <Transaction>
+          <ProcessorTransactionId>111-90000000000000000000000-0000000000003034</ProcessorTransactionId>
+        </Transaction>
+      </Transactions>
+    </Expenses>
+    <Expenses>
+      <TransactionDate>2018-11-16T00:00:00</TransactionDate>
+      <Amount>300.00</Amount>
+      <CurrencyCode>EUR</CurrencyCode>
+      <DateApproved />
+      <DateCompleted>2019-02-22T09:06:43.413</DateCompleted>
+      <DateControlled />
+      <ExpenseAccount />
+      <VatAmount />
+      <VatPercentage />
+      <IsInvoice>false</IsInvoice>
+      <InvoiceNumber />
+      <MerchantEnterpriseNumber />
+      <IsReimbursable>true</IsReimbursable>
+      <Merchant />
+      <Note></Note>
+      <Type>0300</Type>
+      <Project></Project>
+      <User>Ner Zhul</User>
+      <ImageLink />
+      <Country />
+      <CustomField Name="0cf" />
+      <CustomField Name="cf" />
+      <CustomField Name="cff" />
+      <CustomField Name="usercf" />
+      <CustomField Name="usercff" />
+      <UserCustomField Name="usercf">2(2)</UserCustomField>
+      <UserCustomField Name="usercff">usertest2</UserCustomField>
+      <Approver />
+      <Branch>Default branch</Branch>
+      <BranchID>db</BranchID>
+      <CategoryID />
+      <CategoryIDExtra />
+      <ProjectID />
+      <UserID></UserID>
+      <TotalVAT>0.0</TotalVAT>
+      <IBAN></IBAN>
+      <XpdReference>XPD000185896</XpdReference>
+      <TravellerId></TravellerId>
+      <VehicleGroup></VehicleGroup>
+      <RateCode></RateCode>
+      <HasImage>false</HasImage>
+      <DateSubmitted />
+      <ExchangeRate>1.0</ExchangeRate>
+      <PaymentMethodName>Card 300</PaymentMethodName>
+      <BranchAmount>300.00</BranchAmount>
+      <CheckIn />
+      <CheckOut />
+      <NumberOfNights />
+      <Transactions>
+        <Transaction>
+          <ProcessorTransactionId>111-90000000000000000000000-0000000000003004</ProcessorTransactionId>
+        </Transaction>
+        <Transaction>
+          <ProcessorTransactionId>111-90000000000000000000000-0000000000003034</ProcessorTransactionId>
+        </Transaction>
+      </Transactions>
+    </Expenses>
+  </Group>
+</Report>
