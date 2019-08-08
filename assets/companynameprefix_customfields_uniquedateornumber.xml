@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomfields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customfield>
+    <Name>WBS</Name>
+    <Value>Mailing</Value>
+    <Code>01</Code>
+    <Active>1</Active>
+    <ProjectId>Proj1</ProjectId>
+  </Customfield>
+  <Customfield>
+    <Name>WBS</Name>
+    <Value>Coldcalling</Value>
+    <Code>02</Code>
+    <Active>1</Active>
+    <ProjectId>Proj2</ProjectId>
+  </Customfield>
+</ArrayOfCustomfields>
