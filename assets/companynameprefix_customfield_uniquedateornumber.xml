@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfCustomFields xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CustomField>
+    <Name>Client</Name>
+    <PredefinedValues>
+      <PredefinedValue>
+        <Value>Client A</Value>
+        <Code>1234567890</Code>
+        <IsActive>1</IsActive>
+        <Users>
+          <User>
+            <Username>employee@company.com</Username>
+            <StartDate>2017-01-06</StartDate>
+            <EndDate>2017-01-10</EndDate>
+          </User>
+        </Users>
+      </PredefinedValue>
+      <PredefinedValue>
+        <Value>Client B</Value>
+        <Code>987654321</Code>
+        <IsActive>1</IsActive>
+        <Users>
+          <User>
+            <Username>employee2@company.com</Username>
+            <StartDate>2017-01-06</StartDate>
+            <EndDate>2017-01-10</EndDate>
+          </User>
+        </Users>
+      </PredefinedValue>
+  </CustomField>
+</ArrayOfCustomFields>
