@@ -1,0 +1,5 @@
+customfieldname;value;id;active;branchid;branchname
+Fruit;appel;01;1;hq belgium;HQ01
+Fruit;cherry;02;1;hq belgium;HQ01
+Fruit;banana;03;1;hq france;HQ02
+Fruit;grape;04;1;hq france;HQ02
