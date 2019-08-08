@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ApproverProjectsExceptions>
+  <Approvers>
+    <ApproverA>john@xpenditure.com</ApproverA>
+    <ApproverB>james@cardwise.be</ApproverB>
+    <Project>WBS_001</Project>
+    <Active>1</Active>
+  </Approvers>
+  <Approvers>
+    <ApproverA>james@cardwise.be</ApproverA>
+    <ApproverB>tom@xpenditure.com</ApproverB>
+    <Project>WBS_002</Project>
+    <Active>1</Active>
+  </Approvers>
+</ApproverProjectsExceptions>

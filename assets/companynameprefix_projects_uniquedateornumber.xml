@@ -1,0 +1,18 @@
+<?xml version=“1.0” encoding=“utf-8"?>
+<ArrayofProjects>
+<ns0:Projects xmlns:ns0=“http://www.Xpenditure.com/v1/ProjectProvisioning“>
+  <Project>
+    <Name>Project1</Name>
+	<ProjectId>Project1</ProjectId>
+	<Active>1</Active>
+	<Branch>Headquarters A</Branch>
+	<BranchId>001</BranchId>
+  </Project>
+  <Project>
+    <Name>Project2</Name>
+	<ProjectId>Project2</ProjectId>
+	<Active>1</Active>
+	<Branch>Headquarters B</Branch>
+	<BranchId>002</BranchId>
+  </Project>
+</ns0:Projects>
