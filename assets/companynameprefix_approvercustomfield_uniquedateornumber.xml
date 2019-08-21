@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldApprovers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Approvers>
+		<Approver>approver@company.com</Approver>
+		<CustomField>expense_type</CustomField>
+		<CustomFieldValue>Training Expenses</CustomFieldValue>
+		<Code>E1202</Code>
+		<Active>1</Active>
+	</Approvers>
+	<Approvers>
+		<Approver>approver2@company.com</Approver>
+		<CustomField>expense_type</CustomField>
+		<CustomFieldValue>HR_Expenses</CustomFieldValue>
+		<Code>E1203</Code>
+		<Active>1</Active>
+	</Approvers>
+</CustomFieldApprovers>
