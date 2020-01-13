@@ -1,0 +1,1750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfExpense xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Expense>
+    <ExpenseGuid>a18f24de-7e89-4fc0-b06a-d591ce367e4d</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>1.00</Amount>
+    <Date>2019-03-28T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>1.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>1.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>VA</Country>
+    <XpdReference>XPD000236771</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:09:15.68</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Vatican</Country>
+      <Region>Vatican</Region>
+      <City>Vatican City</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>858424e6-adbd-4014-9f35-19b794029380</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>2.00</Amount>
+    <Date>2019-03-28T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>2.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>2.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>MC</Country>
+    <XpdReference>XPD000236772</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:09:15.68</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Monaco</Country>
+      <Region>Monaco</Region>
+      <City>Monaco</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>1efad2f7-a2e3-4cc6-b50a-da783d3e3886</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>3.00</Amount>
+    <Date>2019-03-28T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>3.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>3.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>US</Country>
+    <XpdReference>XPD000236773</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:09:15.68</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>United States</Country>
+      <Region>New York</Region>
+      <City>New York City</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>9a09617f-083d-47d5-9f35-e5dbde24a034</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>4.00</Amount>
+    <Date>2019-03-28T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>4.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>4.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>UA</Country>
+    <XpdReference>XPD000236774</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:09:15.68</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Ukraine</Country>
+      <Region>Zhytomyr</Region>
+      <City>Zhytomyr</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>9e5f2394-0358-400e-bd16-2163f8f43298</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>5.00</Amount>
+    <Date>2019-03-28T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>5.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>5.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>UA</Country>
+    <XpdReference>XPD000236775</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:09:15.68</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Ukraine</Country>
+      <Region>Kyiv City</Region>
+      <City>Kyiv</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>8f6f7518-fd83-40dd-b1fb-c25e01cd8c66</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>6.00</Amount>
+    <Date>2019-03-28T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>6.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>6.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>UA</Country>
+    <XpdReference>XPD000236777</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:09:15.68</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Ukraine</Country>
+      <Region>Republic of Crimea</Region>
+      <City>Simferopol</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>833d17d9-d096-434e-82ea-49a12b1da6dd</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>7.00</Amount>
+    <Date>2019-03-28T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>7.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>7.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>BE</Country>
+    <XpdReference>XPD000236778</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:09:15.68</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Belgium</Country>
+      <Region>Flanders</Region>
+      <City>Brugge</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>7d8206f6-87a0-4673-ab2a-c78dd47a9c5d</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>8.00</Amount>
+    <Date>2019-03-28T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>8.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>8.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>DE</Country>
+    <XpdReference>XPD000236779</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:09:15.68</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Germany</Country>
+      <Region>Baden-Württemberg</Region>
+      <City>Schwäbisch Gmünd</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>f315565b-4d1d-49b0-9d7f-10acdab2c3a0</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>10.00</Amount>
+    <Date>2019-04-03T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>10.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>10.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>FR</Country>
+    <XpdReference>XPD000636154</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>France</Country>
+      <Region>Auvergne-Rhône-Alpes</Region>
+      <City>Sainte-Foy-lès-Lyon</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>94f81770-c4b4-46d6-bb05-9bafe1c3de85</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>12.00</Amount>
+    <Date>2019-04-04T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>12.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>12.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <XpdReference>XPD000636694</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-04-04T08:56:12.953</DateSubmitted>
+    <DateApproved>2019-04-04T08:57:53.55</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-04-04T08:59:27.38</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location />
+  </Expense>
+  <Expense>
+    <ExpenseGuid>6ac6666b-1402-48bf-a8b3-45a23b5bbf56</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>95.00</Amount>
+    <Date>2019-04-04T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant>Dagvergoeding</Merchant>
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>95.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>95.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <Trip>
+      <TripGuid>1e5c9b95-2d15-4b5e-b24b-4ee2bbb6e10f</TripGuid>
+      <Name>France - 04/04 - 04/04</Name>
+      <StartDate>2019-04-04T00:00:00</StartDate>
+      <EndDate>2019-04-04T12:00:00</EndDate>
+      <TripID>TRP000009903</TripID>
+    </Trip>
+    <XpdReference>XPD000636703</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Per Diem</PaymentMethod>
+    <PaymentMethodGuid>da6be433-3138-4e47-8700-1cfd7f8157d9</PaymentMethodGuid>
+    <PaymentMethodName>Dagvergoeding</PaymentMethodName>
+    <DateSubmitted>2019-04-04T08:56:12.953</DateSubmitted>
+    <DateApproved>2019-04-04T08:57:53.55</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-04-04T08:59:27.38</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <PerDiem>
+      <Rate>
+        <Amount>95.00</Amount>
+        <Name>Dagvergoeding</Name>
+      </Rate>
+      <Duration>12:00</Duration>
+      <Region>France</Region>
+      <Currency>EUR</Currency>
+      <Deductions />
+      <Supplements />
+    </PerDiem>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location />
+  </Expense>
+  <Expense>
+    <ExpenseGuid>d20915ed-79d7-4469-89fd-ad501b90800c</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>377.07</Amount>
+    <Date>2019-04-04T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <ExpenseAccount>
+      <ExpenseAccountGuid>ecf34286-f1f2-42ab-849d-bd3b8e51fb5c</ExpenseAccountGuid>
+      <Name>Fuel costs</Name>
+      <Active>true</Active>
+    </ExpenseAccount>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>377.07</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>377.07</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <Mileage>
+      <MileageRateName>Car</MileageRateName>
+      <From>Berlin, Germany</From>
+      <To>Paris, France</To>
+      <Distance>1055.34</Distance>
+      <BackAndForth>false</BackAndForth>
+      <Unit>km</Unit>
+      <MileageRates>
+        <MainRate>
+          <Rate>0.35730</Rate>
+          <Distance>1055.34</Distance>
+        </MainRate>
+        <SubRates />
+      </MileageRates>
+    </Mileage>
+    <Trip>
+      <TripGuid>1e5c9b95-2d15-4b5e-b24b-4ee2bbb6e10f</TripGuid>
+      <Name>France - 04/04 - 04/04</Name>
+      <StartDate>2019-04-04T00:00:00</StartDate>
+      <EndDate>2019-04-04T12:00:00</EndDate>
+      <TripID>TRP000009903</TripID>
+    </Trip>
+    <XpdReference>XPD000636704</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod />
+    <PaymentMethodGuid xsi:nil="true" />
+    <PaymentMethodName />
+    <DateSubmitted>2019-04-04T08:56:12.953</DateSubmitted>
+    <DateApproved>2019-04-04T08:57:53.55</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-04-04T08:59:27.38</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location />
+  </Expense>
+  <Expense>
+    <ExpenseGuid>ddd76d9a-6eb2-4815-9b08-14ce293f9e49</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>13.00</Amount>
+    <Date>2019-04-04T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>13.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>13.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <Trip>
+      <TripGuid>1e5c9b95-2d15-4b5e-b24b-4ee2bbb6e10f</TripGuid>
+      <Name>France - 04/04 - 04/04</Name>
+      <StartDate>2019-04-04T00:00:00</StartDate>
+      <EndDate>2019-04-04T12:00:00</EndDate>
+      <TripID>TRP000009903</TripID>
+    </Trip>
+    <VatValues />
+    <Country>DE</Country>
+    <XpdReference>XPD000636773</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Germany</Country>
+      <Region>North Rhine-Westphalia</Region>
+      <City>Dortmund</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>d20409ad-37df-4c25-a668-dcf4066b96c9</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>12.00</Amount>
+    <Date>2019-04-05T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>12.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>12.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>US</Country>
+    <XpdReference>XPD000637358</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>United States</Country>
+      <Region>Iowa</Region>
+      <City>Ottumwa</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>f49dfb3e-c963-49b3-ac22-d8daa62f2a2b</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>9.00</Amount>
+    <Date>2019-04-12T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>9.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>9.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>DE</Country>
+    <XpdReference>XPD000690418</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Germany</Country>
+      <Region>Lower Saxony</Region>
+      <City>Burgdorf</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>687100a7-40b1-444f-9c96-84b16c7b16a3</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>11.00</Amount>
+    <Date>2019-04-12T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>11.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>11.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>ZA</Country>
+    <XpdReference>XPD000690519</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>South Africa</Country>
+      <Region>Orange Free State</Region>
+      <City>Bloemfontein</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>4ec9cccf-6f0f-4220-8772-2695753921a6</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>14.00</Amount>
+    <Date>2019-04-12T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>14.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>14.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>NL</Country>
+    <XpdReference>XPD000690520</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Netherlands</Country>
+      <Region>South Holland</Region>
+      <City>Rotterdam</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>49c5bf92-6586-4563-b6a6-6e195ff0092e</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>15.00</Amount>
+    <Date>2019-04-12T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>15.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>15.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>DE</Country>
+    <XpdReference>XPD000690621</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Germany</Country>
+      <Region>Schleswig-Holstein</Region>
+      <City>Rendsburg</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>a5374acf-7bf4-497a-b0e1-74977b8e3619</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>16.00</Amount>
+    <Date>2019-04-12T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>16.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>16.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>IN</Country>
+    <XpdReference>XPD000690622</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>India</Country>
+      <Region>Karnataka</Region>
+      <City>Coondapoor</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>5398ff3c-776e-4126-8718-9f43c946bb64</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>17.00</Amount>
+    <Date>2019-04-12T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount xsi:nil="true" />
+    <VatPercentage xsi:nil="true" />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>17.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount xsi:nil="true" />
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>17.00</Amount>
+      <VatAmount xsi:nil="true" />
+    </Branch>
+    <VatValues />
+    <Country>PF</Country>
+    <XpdReference>XPD000690923</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>French Polynesia</Country>
+      <Region>Îles du Vent</Region>
+      <City>Faaa</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>20a18d4d-71a0-438d-86b8-d297cf9846c7</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>21.00</Amount>
+    <Date>2019-09-19T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount>3.64</VatAmount>
+    <VatPercentage>21.0000</VatPercentage>
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>21.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount>3.64</VatAmount>
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>21.00</Amount>
+      <VatAmount>3.64</VatAmount>
+    </Branch>
+    <VatValues />
+    <Country>ES</Country>
+    <XpdReference>XPD000762857</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Spain</Country>
+      <Region>Madrid</Region>
+      <City>Madrid</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>b2816c4d-ab4b-4dae-97cf-459e1bb1d6b0</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>0.70</Amount>
+    <Date>2019-11-04T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <ExpenseAccount>
+      <ExpenseAccountGuid>2071894f-8215-4719-9689-e9b2d5bee9e0</ExpenseAccountGuid>
+      <Name>Delivery, Freight and express</Name>
+      <Active>true</Active>
+    </ExpenseAccount>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount>0.01</VatAmount>
+    <VatPercentage>1.0000</VatPercentage>
+    <VatCode />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>0.70</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount>0.01</VatAmount>
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>0.70</Amount>
+      <VatAmount>0.01</VatAmount>
+    </Branch>
+    <VatValues />
+    <Country>BE</Country>
+    <XpdReference>XPD000937241</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Belgium</Country>
+      <Region>Flanders</Region>
+      <City>Mechelen</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>566996e4-5e16-4ffb-9433-e9f21683223e</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>0.30</Amount>
+    <Date>2019-11-05T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <ExpenseAccount>
+      <ExpenseAccountGuid>ecf34286-f1f2-42ab-849d-bd3b8e51fb5c</ExpenseAccountGuid>
+      <Name>Fuel costs</Name>
+      <Active>true</Active>
+    </ExpenseAccount>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount>0.05</VatAmount>
+    <VatPercentage>21.0000</VatPercentage>
+    <VatCode />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>0.30</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount>0.05</VatAmount>
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>0.30</Amount>
+      <VatAmount>0.05</VatAmount>
+    </Branch>
+    <VatValues />
+    <Country>BE</Country>
+    <XpdReference>XPD000937242</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:07:24.433</DateSubmitted>
+    <DateApproved>2019-12-24T10:07:55.77</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:09:26.287</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Belgium</Country>
+      <Region>Flanders</Region>
+      <City>Mechelen</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>7a2f9ccb-fe59-4c8d-94c0-71cd2c28b9b3</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>18.00</Amount>
+    <Date>2019-12-24T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount>0.18</VatAmount>
+    <VatPercentage>1.0000</VatPercentage>
+    <VatCode />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>18.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount>0.18</VatAmount>
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>18.00</Amount>
+      <VatAmount>0.18</VatAmount>
+    </Branch>
+    <VatValues />
+    <Country>UA</Country>
+    <XpdReference>XPD001364043</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2019-12-24T10:25:04.863</DateSubmitted>
+    <DateApproved>2019-12-24T10:25:12.23</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2019-12-24T10:25:19.277</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Ukraine</Country>
+      <Region>Poltava</Region>
+      <City>Poltava</City>
+    </Location>
+  </Expense>
+  <Expense>
+    <ExpenseGuid>5ad624fa-05be-42c1-9fbb-7b870cf0fb84</ExpenseGuid>
+    <ExpenseStatus>
+      <Status>Controlled</Status>
+      <Reason />
+    </ExpenseStatus>
+    <Amount>19.00</Amount>
+    <Date>2020-01-10T00:00:00</Date>
+    <User>
+      <Email>test4242564+location@gmail.com</Email>
+      <UserGUID>51be7a21-7baa-48d2-ab6e-46bdcae95cce</UserGUID>
+    </User>
+    <Reimbursable>true</Reimbursable>
+    <IsInvoice>false</IsInvoice>
+    <Currency>EUR</Currency>
+    <MerchantEnterpriseNumber />
+    <Merchant />
+    <Note />
+    <VatAmount>0.19</VatAmount>
+    <VatPercentage>1.0000</VatPercentage>
+    <VatCode />
+    <CalculatedCurrencies>
+      <CalculatedCurrency>
+        <Amount>19.00</Amount>
+        <Currency>EUR</Currency>
+        <VatAmount>0.19</VatAmount>
+      </CalculatedCurrency>
+    </CalculatedCurrencies>
+    <Group>
+      <GroupGuid>410a851a-270e-4115-bbc4-a1bede394a71</GroupGuid>
+      <Name>Default group</Name>
+    </Group>
+    <Branch>
+      <BranchGuid>c53752d8-cb8f-4ed0-a536-366eab63b2a0</BranchGuid>
+      <Name>Company</Name>
+      <EnterpriseNumber>Enterprise number</EnterpriseNumber>
+      <Currency>EUR</Currency>
+      <Amount>19.00</Amount>
+      <VatAmount>0.19</VatAmount>
+    </Branch>
+    <VatValues />
+    <Country>UA</Country>
+    <XpdReference>XPD001371255</XpdReference>
+    <MatchStatus>None</MatchStatus>
+    <PaymentMethod>Cash</PaymentMethod>
+    <PaymentMethodGuid>366c6a7c-c5d4-4aa8-bc0c-9d1878c257c3</PaymentMethodGuid>
+    <PaymentMethodName>Cash</PaymentMethodName>
+    <OwnerShip>Personal</OwnerShip>
+    <DateSubmitted>2020-01-10T16:19:53.327</DateSubmitted>
+    <DateApproved>2020-01-10T16:20:04.99</DateApproved>
+    <ApprovedBy>test4242564+location@gmail.com</ApprovedBy>
+    <DateControlled>2020-01-10T16:20:13.697</DateControlled>
+    <ControlledBy>test4242564+location@gmail.com</ControlledBy>
+    <TravellerId />
+    <CheckInDate xsi:nil="true" />
+    <CheckOutDate xsi:nil="true" />
+    <NumberOfNights xsi:nil="true" />
+    <RejectReasons />
+    <LinkTravel />
+    <ValidationStatus xsi:nil="true" />
+    <CfdiGuid xsi:nil="true" />
+    <RfcNumber />
+    <InvalidReason />
+    <Location>
+      <Country>Ukraine</Country>
+      <Region>Kharkiv</Region>
+      <City>Kharkiv</City>
+    </Location>
+  </Expense>
+</ArrayOfExpense>
