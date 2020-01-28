@@ -1,0 +1,16 @@
+<CustomFieldControllers>
+	<Controllers>
+		<Controller>john@xpenditure.com</Controller>
+		<CustomField>Expense Types</CustomField>
+		<CustomFieldValue>General Expenses</CustomFieldValue>    
+		<Code>987654321</Code>    
+		<Active>1</Active>
+	</Controllers>
+	<Controllers>
+		<Controller>john@xpenditure.com</Controller>
+		<CustomField>Expense Types</CustomField>
+		<CustomFieldValue>Training Expenses</CustomFieldValue>    
+		<Code>987654321</Code>    
+		<Active>1</Active>
+	</Controllers>
+</CustomFieldControllers>
