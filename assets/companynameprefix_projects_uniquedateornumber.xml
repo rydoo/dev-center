@@ -1,6 +1,6 @@
-<?xml version=“1.0” encoding=“utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ArrayofProjects>
-<ns0:Projects xmlns:ns0=“http://www.Xpenditure.com/v1/ProjectProvisioning“>
+<ns0:Projects xmlns:ns0="http://www.Xpenditure.com/v1/ProjectProvisioning">
   <Project>
     <Name>Project1</Name>
 	<ProjectId>Project1</ProjectId>
