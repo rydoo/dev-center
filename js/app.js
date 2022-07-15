@@ -1,6 +1,6 @@
 // Make Sticky Navigation on Scroll
 
-$(window).scroll(function () {
+window.addEventListener("scroll", e => {
 
 	if ($(window).scrollTop() > 1) {
 		$('#hub-header').addClass('fixed');
