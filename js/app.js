@@ -1,15 +1,3 @@
-// Make Sticky Navigation on Scroll
-
-window.addEventListener("scroll", e => {
-
-	if ($(window).scrollTop() > 1) {
-		$('#hub-header').addClass('fixed');
-		$('#header-mobile').addClass('fixed');
-	} else {
-		$('#hub-header:not(.white)').removeClass('fixed');
-		$('#header-mobile').removeClass('fixed');
-	}
-});
 
 // Particle Settings
 
