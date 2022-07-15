@@ -60,9 +60,7 @@ h1,h2,h3,h4,h5{
   font-family: "BuenosAires",'ProximaNova',Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
-h1{
-  font-size: 100px;
-}
+
 h2{
   font-size: 24px;
 }
@@ -86,6 +84,10 @@ a.text-muted:hover {
 =            LANDING PAGE           =
 ==========================================*/
 
+#AppFooter,
+.rm-Banners{
+display:none;
+}
 
 #DCheader{
     background: -webkit-gradient(linear, left top, left bottom, color-stop(15%, #2A295C), color-stop(160%, #8282DC));
