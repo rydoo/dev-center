@@ -48,9 +48,7 @@
 	  ...
     </CustomFields>
     <Image>https://streaming.xpenditure.com/Receipt/original/9c843341-af19-4003-84bb-a1d29197beaa/9c843341-af19-4003-84bb-a1d29197beaa/1b43875e-633e-43ac-8a1c-ad1fd023c490</Image>
-	<Base64string>data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAPAAA/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEB...H/9k=</Base64string><!-- Only available if Base64string setting is activated for SFTP connection -->
-	<FileExtension>JPEG</FileExtension><!-- Only available if Base64string setting is activated for SFTP connection -->
-	      <Attachments>
+    <Attachments>
       <Attachment>
         <Url>https://streaming.rydoo.com/attachment/fe8e2033-4c60-470c-aad0-c7ab7bcca620/fe8e2033-4c60-470c-aad0-c7ab7bcca620/e8704947-9d56-462b-ae4a-7c1a5a2ff7da/download/false/Expense?d=24032021121727</Url>
       </Attachment>
